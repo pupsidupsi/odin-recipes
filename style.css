@@ -1,0 +1,31 @@
+*{
+    font-family: sans-serif;
+    margin: 20px auto;
+    box-sizing: border-box;
+    width: 700px;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    background:rgb(99, 150, 33)
+}
+
+h2{
+    text-align:center;
+    color: rgb(35, 35, 128);
+    background-color: rgb(155, 224, 178);
+    padding: 20px;
+}
+
+p {
+    text-align: center;
+}
+
+ul{
+    color:blueviolet;
+}
+
+ol{
+    color:rgb(96, 150, 26)
+}
