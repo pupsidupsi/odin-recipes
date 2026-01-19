@@ -5,8 +5,10 @@
     width: 700px;
 }
 
-h1{
+header{
     text-align: center;
+    font-size: 60px;
+    font-weight: bold;
     color: black;
     background:rgb(99, 150, 33)
 }
@@ -14,13 +16,14 @@ h1{
 h2{
     text-align:center;
     color: rgb(35, 35, 128);
-    background-color: rgb(155, 224, 178);
-    padding: 20px;
+    
 }
 
-p {
-    text-align: center;
+a{
+    text-decoration:none;
+    color: rgb(99, 150, 33)
 }
+
 
 ul{
     color:blueviolet;
@@ -29,3 +32,18 @@ ul{
 ol{
     color:rgb(96, 150, 26)
 }
+
+.rec{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    padding:40px;
+    
+}
+
+footer{
+    background: rgb(202, 201, 201);
+    text-align: center;
+}
+
